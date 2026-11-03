@@ -1,0 +1,340 @@
+{
+  "browser": "ChatGPT 内置浏览器",
+  "checkedOn": "2026-11-03",
+  "viewports": [
+    [
+      1440,
+      1000
+    ],
+    [
+      834,
+      1180
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      320,
+      844
+    ]
+  ],
+  "results": [
+    {
+      "width": 1440,
+      "language": "",
+      "page": "",
+      "broken": 0,
+      "content": 1430,
+      "scroll": 1430,
+      "title": "突破每一道极限",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "language": "",
+      "page": "contact",
+      "broken": 0,
+      "content": 1430,
+      "scroll": 1430,
+      "title": "联系我们",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "language": "",
+      "page": "subscribe",
+      "broken": 0,
+      "content": 1430,
+      "scroll": 1430,
+      "title": "申请您的\n训练计划",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "language": "en/",
+      "page": "",
+      "broken": 0,
+      "content": 1430,
+      "scroll": 1430,
+      "title": "BREAKEVERY LIMIT.",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "language": "en/",
+      "page": "contact",
+      "broken": 0,
+      "content": 1430,
+      "scroll": 1430,
+      "title": "Contact Us.",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 1440,
+      "language": "en/",
+      "page": "subscribe",
+      "broken": 0,
+      "content": 1430,
+      "scroll": 1430,
+      "title": "Apply for\nTHE PROGRAM",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "width": 834,
+      "language": "",
+      "page": "",
+      "broken": 0,
+      "content": 824,
+      "scroll": 824,
+      "title": "突破每一道极限",
+      "viewport": [
+        834,
+        1180
+      ]
+    },
+    {
+      "width": 834,
+      "language": "",
+      "page": "contact",
+      "broken": 0,
+      "content": 824,
+      "scroll": 824,
+      "title": "联系我们",
+      "viewport": [
+        834,
+        1180
+      ]
+    },
+    {
+      "width": 834,
+      "language": "",
+      "page": "subscribe",
+      "broken": 0,
+      "content": 824,
+      "scroll": 824,
+      "title": "申请您的\n训练计划",
+      "viewport": [
+        834,
+        1180
+      ]
+    },
+    {
+      "width": 834,
+      "language": "en/",
+      "page": "",
+      "broken": 0,
+      "content": 824,
+      "scroll": 824,
+      "title": "BREAKEVERY LIMIT.",
+      "viewport": [
+        834,
+        1180
+      ]
+    },
+    {
+      "width": 834,
+      "language": "en/",
+      "page": "contact",
+      "broken": 0,
+      "content": 824,
+      "scroll": 824,
+      "title": "Contact Us.",
+      "viewport": [
+        834,
+        1180
+      ]
+    },
+    {
+      "width": 834,
+      "language": "en/",
+      "page": "subscribe",
+      "broken": 0,
+      "content": 824,
+      "scroll": 824,
+      "title": "Apply for\nTHE PROGRAM",
+      "viewport": [
+        834,
+        1180
+      ]
+    },
+    {
+      "width": 390,
+      "language": "",
+      "page": "",
+      "broken": 0,
+      "content": 380,
+      "scroll": 380,
+      "title": "突破每一道极限",
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "width": 390,
+      "language": "",
+      "page": "contact",
+      "broken": 0,
+      "content": 380,
+      "scroll": 380,
+      "title": "联系我们",
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "width": 390,
+      "language": "",
+      "page": "subscribe",
+      "broken": 0,
+      "content": 380,
+      "scroll": 380,
+      "title": "申请您的\n训练计划",
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "width": 390,
+      "language": "en/",
+      "page": "",
+      "broken": 0,
+      "content": 380,
+      "scroll": 380,
+      "title": "BREAKEVERY LIMIT.",
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "width": 390,
+      "language": "en/",
+      "page": "contact",
+      "broken": 0,
+      "content": 380,
+      "scroll": 380,
+      "title": "Contact Us.",
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "width": 390,
+      "language": "en/",
+      "page": "subscribe",
+      "broken": 0,
+      "content": 380,
+      "scroll": 380,
+      "title": "Apply for\nTHE PROGRAM",
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "width": 320,
+      "language": "",
+      "page": "",
+      "broken": 0,
+      "content": 310,
+      "scroll": 310,
+      "title": "突破每一道极限",
+      "viewport": [
+        320,
+        844
+      ]
+    },
+    {
+      "width": 320,
+      "language": "",
+      "page": "contact",
+      "broken": 0,
+      "content": 310,
+      "scroll": 310,
+      "title": "联系我们",
+      "viewport": [
+        320,
+        844
+      ]
+    },
+    {
+      "width": 320,
+      "language": "",
+      "page": "subscribe",
+      "broken": 0,
+      "content": 310,
+      "scroll": 310,
+      "title": "申请您的\n训练计划",
+      "viewport": [
+        320,
+        844
+      ]
+    },
+    {
+      "width": 320,
+      "language": "en/",
+      "page": "",
+      "broken": 0,
+      "content": 310,
+      "scroll": 310,
+      "title": "BREAKEVERY LIMIT.",
+      "viewport": [
+        320,
+        844
+      ]
+    },
+    {
+      "width": 320,
+      "language": "en/",
+      "page": "contact",
+      "broken": 0,
+      "content": 310,
+      "scroll": 310,
+      "title": "Contact Us.",
+      "viewport": [
+        320,
+        844
+      ]
+    },
+    {
+      "width": 320,
+      "language": "en/",
+      "page": "subscribe",
+      "broken": 0,
+      "content": 310,
+      "scroll": 310,
+      "title": "Apply for\nTHE PROGRAM",
+      "viewport": [
+        320,
+        844
+      ]
+    }
+  ],
+  "limitations": [
+    "页面布局与重点交互检查不等于所有原站动效逐帧时长完全一致",
+    "减少动态效果已实现，系统偏好切换未实际操作"
+  ]
+}

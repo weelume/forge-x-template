@@ -1,0 +1,106 @@
+{
+  "id": "forge-x",
+  "gitUrl": "https://github.com/weelume/forge-x-template",
+  "name": "Forge X · 运动表现",
+  "localizedNames": {
+    "en": "Forge X · Elite performance"
+  },
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "健身",
+    "力量训练",
+    "黑金",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "summary": "以黑金视觉呈现专业运动表现，包含训练项目展开卡片、会员计划、成果、教练团队与本地申请演示。",
+  "accentColor": "#efa812",
+  "cover": "/templates/forge-x/screenshots/desktop-home.webp",
+  "screenshots": [
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "首页 · PC",
+      "src": "/templates/forge-x/screenshots/desktop-home.webp"
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "首页服务区 · PC",
+      "src": "/templates/forge-x/screenshots/desktop-services.webp"
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "联系 · PC",
+      "src": "/templates/forge-x/screenshots/desktop-contact.webp"
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "申请计划 · PC",
+      "src": "/templates/forge-x/screenshots/desktop-subscribe.webp"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "首页 · iPad",
+      "src": "/templates/forge-x/screenshots/tablet-home.webp"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "首页服务区 · iPad",
+      "src": "/templates/forge-x/screenshots/tablet-services.webp"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "联系 · iPad",
+      "src": "/templates/forge-x/screenshots/tablet-contact.webp"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "申请计划 · iPad",
+      "src": "/templates/forge-x/screenshots/tablet-subscribe.webp"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "首页 · H5",
+      "src": "/templates/forge-x/screenshots/mobile-home.webp"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "首页服务区 · H5",
+      "src": "/templates/forge-x/screenshots/mobile-services.webp"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "联系 · H5",
+      "src": "/templates/forge-x/screenshots/mobile-contact.webp"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "申请计划 · H5",
+      "src": "/templates/forge-x/screenshots/mobile-subscribe.webp"
+    }
+  ]
+}

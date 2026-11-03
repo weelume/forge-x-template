@@ -1,0 +1,111 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-11-03T01:19:59.297Z",
+  "sourceCommit": null,
+  "sourceDigest": "4b017ce4e8e42c9ff17de6f5162390abc611f2e1b8f7952b0131b4a8f904c2cb",
+  "environment": {
+    "platform": "linux / local WSL Ubuntu",
+    "arch": "x64",
+    "node": "v24.16.0",
+    "packageManager": "pnpm 9.15.4",
+    "cleanDirectory": false,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "install",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "install",
+        "--frozen-lockfile"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T01:19:29.516Z",
+      "finishedAt": "2026-11-03T01:19:30.826Z"
+    },
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T01:19:30.827Z",
+      "finishedAt": "2026-11-03T01:19:33.342Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T01:19:33.342Z",
+      "finishedAt": "2026-11-03T01:19:35.845Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T01:19:35.845Z",
+      "finishedAt": "2026-11-03T01:19:36.792Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T01:19:36.792Z",
+      "finishedAt": "2026-11-03T01:19:54.101Z"
+    },
+    {
+      "id": "http",
+      "cwd": ".",
+      "argv": [
+        "node",
+        "scripts/verify-http.mjs",
+        "http://127.0.0.1:43735"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-11-03T01:19:55.592Z",
+      "finishedAt": "2026-11-03T01:19:55.775Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-11-03T01:19:55.592Z"
+    }
+  ],
+  "limitations": [
+    "检查运行于本地 WSL Linux 文件系统；复用已有依赖缓存，未使用独立克隆目录",
+    "内置浏览器布局及重点交互证据见 browser.json",
+    "系统减少动态效果偏好未切换；全部原站动效逐帧精确时长仍未验证",
+    "原站故事入口无可播放视频，当前说明弹窗为有意差异"
+  ]
+}

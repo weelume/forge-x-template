@@ -1,0 +1,3 @@
+import type { SiteTemplate } from '../../types';
+import metadata from './metadata.json';
+export const forgexTemplate: SiteTemplate = { ...metadata, screenshots: metadata.screenshots as SiteTemplate['screenshots'], surfaces: [{ id: 'site', name: '训练官网', platform: 'pc', locales: ['zh', 'en'], pages: [{ slug: '', title: '首页', localizedTitles: { en: 'Home' }, load: () => import('./pages/HomePage') }, { slug: 'contact', title: '联系我们', localizedTitles: { en: 'Contact' }, load: () => import('./pages/ContactPage') }, { slug: 'subscribe', title: '申请计划', localizedTitles: { en: 'Apply for the program' }, load: () => import('./pages/SubscribePage') }] }] };

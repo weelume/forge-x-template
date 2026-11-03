@@ -1,0 +1,180 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "forge-x",
+  "gitUrl": "https://github.com/weelume/forge-x-template",
+  "name": "Forge X · 运动表现",
+  "localizedNames": {
+    "en": "Forge X · Elite performance"
+  },
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "健身",
+    "力量训练",
+    "黑金",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "summary": "以黑金视觉呈现专业运动表现，包含训练项目展开卡片、会员计划、成果、教练团队与本地申请演示。",
+  "accentColor": "#efa812",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "首页 · PC",
+      "src": "assets/desktop-home.webp",
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "首页服务区 · PC",
+      "src": "assets/desktop-services.webp",
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "联系 · PC",
+      "src": "assets/desktop-contact.webp",
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "申请计划 · PC",
+      "src": "assets/desktop-subscribe.webp",
+      "surfaceId": "site",
+      "pageSlug": "subscribe"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "首页 · iPad",
+      "src": "assets/tablet-home.webp",
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "首页服务区 · iPad",
+      "src": "assets/tablet-services.webp",
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "联系 · iPad",
+      "src": "assets/tablet-contact.webp",
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "申请计划 · iPad",
+      "src": "assets/tablet-subscribe.webp",
+      "surfaceId": "site",
+      "pageSlug": "subscribe"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "首页 · H5",
+      "src": "assets/mobile-home.webp",
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "首页服务区 · H5",
+      "src": "assets/mobile-services.webp",
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "联系 · H5",
+      "src": "assets/mobile-contact.webp",
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "申请计划 · H5",
+      "src": "assets/mobile-subscribe.webp",
+      "surfaceId": "site",
+      "pageSlug": "subscribe"
+    }
+  ],
+  "version": "1.0.0",
+  "stack": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Framer Motion"
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "训练官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "联系我们",
+          "localizedTitles": {
+            "en": "Contact"
+          }
+        },
+        {
+          "slug": "subscribe",
+          "title": "申请计划",
+          "localizedTitles": {
+            "en": "Apply for the program"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "commercial",
+    "file": "docs/LICENSE.md",
+    "summary": "用户已确认拥有本模板素材下载和再分发授权；使用遵循原授权条款。",
+    "redistributionAllowed": true
+  }
+}

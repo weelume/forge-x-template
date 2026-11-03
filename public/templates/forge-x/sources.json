@@ -1,0 +1,463 @@
+{
+  "reference": "https://forge-x.framer.website/",
+  "downloadedAt": "2026-11-02T18:44:18.862Z",
+  "sources": [
+    {
+      "file": "media/0E7IMbDzcGABpBwwqNEt60wU0w.woff2",
+      "url": "https://framerusercontent.com/assets/0E7IMbDzcGABpBwwqNEt60wU0w.woff2",
+      "bytes": 7540,
+      "sha256": "349420a3accf34ce219764a6eca2728b555ecdd993053844d1696583bb74e4c5",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+      "url": "https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+      "bytes": 4628,
+      "sha256": "9bed92e963c634e32445ddc792d62180fb8498a10d3f7c20a1e8d1e7de17adc4",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/1YZVPBLcyRsKxbEm3pKyiTZO4.jpg",
+      "url": "https://framerusercontent.com/images/1YZVPBLcyRsKxbEm3pKyiTZO4.jpg",
+      "bytes": 58768,
+      "sha256": "c72f53657918cc48a9f9d7bc6176a213acb3279efbdc2790a89a38b2085137b1",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/2TXZKBJMJVP3NQX7K7MGJDQFMD4ZMJR7.woff2",
+      "url": "https://framerusercontent.com/third-party-assets/fontshare/wf/AWXLDXTI2CYJ5SHK74YUPGPFS5S5BWLL/M6ZJD4UOFNT4DPUXGTK7T46JZ3W3QW64/2TXZKBJMJVP3NQX7K7MGJDQFMD4ZMJR7.woff2",
+      "bytes": 16228,
+      "sha256": "02b1ec0fad2289bac6ea7cafaa5202cdd730ac207092cc8532d4e8f99639ab88",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/2uIBiALfCHVpWbHqRMZutfT7giU.woff2",
+      "url": "https://framerusercontent.com/assets/2uIBiALfCHVpWbHqRMZutfT7giU.woff2",
+      "bytes": 8632,
+      "sha256": "7c359ce7161508b01a66c0b70b6a503c04a33c0d755104e00b9c1491503e1f14",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+      "url": "https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+      "bytes": 7080,
+      "sha256": "09d4eb010bb9140289383ee337ac5775b8caf7a830113cfbb071134bf2a354cb",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+      "url": "https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+      "bytes": 8956,
+      "sha256": "5c1619dc61ac73f6beff6e0de9d88567b9cf875b0ba5dad61f4cc0965c217686",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+      "bytes": 8896,
+      "sha256": "68cf5b575705c54b915a806a6666344a65b010388b588311629a8009af66b87a",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+      "url": "https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+      "bytes": 4644,
+      "sha256": "7c03fe0fd6cc9d3a1a4e617b199560466301adac078846525211898f245028b4",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/7SZWDkXldR23cGa1V5dBjiHwMn8.png",
+      "url": "https://framerusercontent.com/images/7SZWDkXldR23cGa1V5dBjiHwMn8.png",
+      "bytes": 257261,
+      "sha256": "00fbb77797aa3031280b3000eaf87d3241738eda89ff2cd1dd8cebe41fccd516",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/7UZxiylzBm6zGhaesZTF16X5Q.png",
+      "url": "https://framerusercontent.com/images/7UZxiylzBm6zGhaesZTF16X5Q.png",
+      "bytes": 252116,
+      "sha256": "b22951ce9c5093f92f9ba60991d9659acdd59b0f1af549b6c052655ec580629b",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2",
+      "url": "https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2",
+      "bytes": 4316,
+      "sha256": "d216c9ebfd1b8bf2416a810afe222f88de9268944b6bbacad5e5f05f6734fd6b",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+      "bytes": 4168,
+      "sha256": "f2207c07c5ac395d1d8c33f46655ded6aea7e66269431e3f943693c0318441dc",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/bHYNJqzTyl2lqvmMiRRS6Y16Es.woff2",
+      "url": "https://framerusercontent.com/assets/bHYNJqzTyl2lqvmMiRRS6Y16Es.woff2",
+      "bytes": 26588,
+      "sha256": "b68a1d9dd28ee2271e335f0641317ae656016451ccac2a6eb30abf74009cef4c",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/bi4FpPf0FKCENMrvjXq1VzIhU.png",
+      "url": "https://framerusercontent.com/images/bi4FpPf0FKCENMrvjXq1VzIhU.png",
+      "bytes": 242011,
+      "sha256": "e3ac3839d01cfb58f939f609d94f52e35bdbb256802a80b57febdce98c190c13",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/Bo5CNzBv77CafbxOtKIkpw9egw.woff2",
+      "url": "https://framerusercontent.com/assets/Bo5CNzBv77CafbxOtKIkpw9egw.woff2",
+      "bytes": 30244,
+      "sha256": "59b58c05f419ceb027c1cd1052c24505846ef338ae3bff2bfa7f8ce9d78e6186",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2",
+      "url": "https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2",
+      "bytes": 26280,
+      "sha256": "67b2070d1aae1ab7129d7c7558a07a0dd850b99ba0ec4f938cb03d41698a9d93",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/CtMOkq2EbqMYHhvJWzWBfDfro.png",
+      "url": "https://framerusercontent.com/images/CtMOkq2EbqMYHhvJWzWBfDfro.png",
+      "bytes": 188755,
+      "sha256": "d49c6ca11c371a1db1c49f6402332bc08fedb07a6c7dc4229a2c6cb74bb519a3",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/DF7bjCRmStYPqSb945lAlMfCCVQ.woff2",
+      "url": "https://framerusercontent.com/assets/DF7bjCRmStYPqSb945lAlMfCCVQ.woff2",
+      "bytes": 24696,
+      "sha256": "5439589dc09e9e3a88c91781a2528794ce5fdf539b39d63730e13028a2a59b1d",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+      "url": "https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+      "bytes": 4288,
+      "sha256": "bbd985c4dabfdca96b510aecc70cfd44371e0589a6f8522cbc119eeb6ee7aac2",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+      "url": "https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+      "bytes": 8892,
+      "sha256": "305cc030ada673760c59e4f4ffac736ace0478598d957102c5574ab0b079f69e",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/DrBB7T5PfGzFvFlLy5hNi7RWU8Y.png",
+      "url": "https://framerusercontent.com/images/DrBB7T5PfGzFvFlLy5hNi7RWU8Y.png",
+      "bytes": 1826,
+      "sha256": "868055feb3675f615bfd4cc4e4898eeb9a66c30fb3ed39d86732597f62bdb4c1",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/dZrOyXVkKGU7qlBlxYRI0hVe9Aw.jpg",
+      "url": "https://framerusercontent.com/images/dZrOyXVkKGU7qlBlxYRI0hVe9Aw.jpg",
+      "bytes": 35224,
+      "sha256": "664abad216d63d12b77c43759ab0dd2b38490accca64ed0f29a9dd9ae5421b75",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/emKHIxQ67OnuNjMct02iSrpo3Fk.jpg",
+      "url": "https://framerusercontent.com/images/emKHIxQ67OnuNjMct02iSrpo3Fk.jpg",
+      "bytes": 61737,
+      "sha256": "d70a377d695711553cfdf609280c585f6f04d3c2493a75c7cfd04634eab46007",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+      "bytes": 7116,
+      "sha256": "af9fa49a46e2b4bb090462e8222f43b426593ce31aca150401aa8ebf5c5b5929",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+      "url": "https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+      "bytes": 4268,
+      "sha256": "c0d105ab64a098680ba890a66228a54c03533d907c2812be8f09740772b6d349",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "bytes": 27380,
+      "sha256": "362b168da82d69bc67d2a358fa20c59151cb4ceac8a5506be6baef5e6827fa42",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2",
+      "url": "https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2",
+      "bytes": 8908,
+      "sha256": "006a424a150e913ff0b7d2c43c29cd3810628811bd686cf5cdd1391239cda123",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/JEXmejW8mXOYMtt0hyRg811kHac.woff2",
+      "url": "https://framerusercontent.com/assets/JEXmejW8mXOYMtt0hyRg811kHac.woff2",
+      "bytes": 27812,
+      "sha256": "7f871b6f0d6a4f6b34bc885f37cce02f65dcc79adea50341371f5c9b2bd67ca9",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+      "bytes": 25348,
+      "sha256": "88f8b52e9e88c8334d8a644d652c94df6bdf25c836729609e9a8f83d35189d11",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/khkJkwSL66WFg8SX6Wa726c.woff2",
+      "url": "https://framerusercontent.com/assets/khkJkwSL66WFg8SX6Wa726c.woff2",
+      "bytes": 9600,
+      "sha256": "514435f5cc4cdd2b8b6d961d8f2dbb034e6a7c9569bb46c2ed16fa8552ec7a8e",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/kvlHYbu79WqIQvccJwfv2uxoYA.png",
+      "url": "https://framerusercontent.com/images/kvlHYbu79WqIQvccJwfv2uxoYA.png",
+      "bytes": 502951,
+      "sha256": "72bd3c12eb9dfd99bbd216be4ff4ca0ecbea53ec65616f355c68fdfe0015cb15",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/lEJLP4R0yuCaMCjSXYHtJw72M.woff2",
+      "url": "https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2",
+      "bytes": 6668,
+      "sha256": "c685cdd073fe381a7ce1e038e608746ef59ba8fead0b648dc3d04f2bc1862a8a",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/MBKWGN1X0wi99lGmBuNkQL44V0.png",
+      "url": "https://framerusercontent.com/images/MBKWGN1X0wi99lGmBuNkQL44V0.png",
+      "bytes": 225945,
+      "sha256": "d77cdbadcb721fd389b9ddf00b66e3ef40313d13bd6cf833f5d990df3ce4c4a3",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2",
+      "url": "https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2",
+      "bytes": 7152,
+      "sha256": "3c00a1758c84c1133ebd5a00272c8a397e0db7120537d0342cd5aca878946e38",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2",
+      "url": "https://framerusercontent.com/assets/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2",
+      "bytes": 4932,
+      "sha256": "29211dd19df9eef7e33ba72f322f9c3c75c33fe5594fbba8d866c038e96273cf",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+      "url": "https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+      "bytes": 26264,
+      "sha256": "6a45c62c6dcac1312a9af0c5662adb1d1806dcd0c30177a89cbb4a7a7680343f",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2",
+      "url": "https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2",
+      "bytes": 4660,
+      "sha256": "32ee785f268b036ad1200d4a8c6ba94b5a542e97e4cb438ef54c6da731aeb399",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+      "bytes": 6652,
+      "sha256": "3d9aaa88875ebe3c7140cc0a43dfd88f844008e24720bb5095157b66c3a15a52",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/pbVa4QhA9rbqdpjb6YpCrLrTCc.png",
+      "url": "https://framerusercontent.com/images/pbVa4QhA9rbqdpjb6YpCrLrTCc.png",
+      "bytes": 402841,
+      "sha256": "5e7ce3bfa99224e6a743d0a2074cb7bcb6aca7cd51f878c993ef045af7d6611e",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/PCXT6E5YCQO6SSVLT6UZPPGT7QKGXOUS.woff2",
+      "url": "https://framerusercontent.com/third-party-assets/fontshare/wf/TPY5PBRHOSXJ53WNSUYZQYX4FZUMAYNF/YHKM2QXXZHS7MS6DJUZXTGRXMIGWH7K5/PCXT6E5YCQO6SSVLT6UZPPGT7QKGXOUS.woff2",
+      "bytes": 46404,
+      "sha256": "961a3e52506f9431c0696e4bc6e18cb644ffd2917eb18b77a06f5b7a45c97fda",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/PjyB9F8FSEV21vNpHGmJdl7LhkU.png",
+      "url": "https://framerusercontent.com/images/PjyB9F8FSEV21vNpHGmJdl7LhkU.png",
+      "bytes": 80742,
+      "sha256": "ca79e2ae6f02063afa08b8268889c0bc0bc3b54f073ec148021a428652456860",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/q0n8ua3d5oFR3OA9FOdzhQzVh8.png",
+      "url": "https://framerusercontent.com/images/q0n8ua3d5oFR3OA9FOdzhQzVh8.png",
+      "bytes": 79376,
+      "sha256": "0a44097ecb156196a3b3677f9ef4e82a5670b34472cf5b7ef09efaa254668bca",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2",
+      "url": "https://framerusercontent.com/assets/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2",
+      "bytes": 7332,
+      "sha256": "c91d16d8ffe76b53926479ea53fced5acf5efe67defb3f4213dad33274f24291",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+      "url": "https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+      "bytes": 7176,
+      "sha256": "335e2d5d8dd32e517ff32559e2aa78d1fef8cfabf8d95d4a83e1ef7bd6b98a76",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/RfRZtyBw0XuXLOT1kI4xD0dhTE.png",
+      "url": "https://framerusercontent.com/images/RfRZtyBw0XuXLOT1kI4xD0dhTE.png",
+      "bytes": 579175,
+      "sha256": "d19d75ffa6ce536d10d58d355ffa67afead5ab4f0895e5b7f3b86dad3295f62e",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/SEWuX7NlXPgtt2v5phAS3ixgpPE.png",
+      "url": "https://framerusercontent.com/images/SEWuX7NlXPgtt2v5phAS3ixgpPE.png",
+      "bytes": 49605,
+      "sha256": "2914542304b10ee2b1b2b274a3309ed842a41cc3f0faccf1b74e7cbac6182bec",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2",
+      "url": "https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2",
+      "bytes": 27900,
+      "sha256": "fad48f71e77d72b44122a1d978820a7e7215b84f9a9c0e3a31d97d5987a710e9",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/T2BARLmj960UOlrB0knl43H6dKE.png",
+      "url": "https://framerusercontent.com/images/T2BARLmj960UOlrB0knl43H6dKE.png",
+      "bytes": 104603,
+      "sha256": "09a61dd65228a8156512a545429f9b6e3be187430361eb73cba43a628eae6ca4",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/tQHCPhoneRiB4pE6rcod5kvEkw.jpg",
+      "url": "https://framerusercontent.com/images/tQHCPhoneRiB4pE6rcod5kvEkw.jpg",
+      "bytes": 261011,
+      "sha256": "81116198e4a4dbafe51c84d77b14564a6788dfebd4ded2525d55c1e01a2020a7",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+      "url": "https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+      "bytes": 6672,
+      "sha256": "43cf206edf89348171df529aac13738dd2155528d009cb72ef283390623058bd",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2",
+      "url": "https://framerusercontent.com/assets/tVew2LzXJ1t7QfxP1gdTIdj2o0g.woff2",
+      "bytes": 6324,
+      "sha256": "246b84d8edd1a3104764157d2da48fac0b61df79a7c2814cba8b2bb5338d1f2b",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/U9LaDDmbRhzX3sB8g8glTy5feTE.woff2",
+      "url": "https://framerusercontent.com/assets/U9LaDDmbRhzX3sB8g8glTy5feTE.woff2",
+      "bytes": 4424,
+      "sha256": "c82062ae4bb5d76b0a89e86fee17498cc1039b714cb1750c9a731f05c1d92adf",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2",
+      "url": "https://framerusercontent.com/assets/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2",
+      "bytes": 27996,
+      "sha256": "216fcca1239e2ce6a2cc6009eac87e7a90ae36e3e0bf1992fdf712f83f58ef06",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/UXO4O7K2G3HI3D2VKD7UXVJVJD26P4BQ.woff2",
+      "url": "https://framerusercontent.com/third-party-assets/fontshare/wf/2TYFCBHUANEXS6QGR5EQDUNAFH6LSWM3/AYNOU3VEA4LRTDNKJQUFNVNUTYSGOUOP/UXO4O7K2G3HI3D2VKD7UXVJVJD26P4BQ.woff2",
+      "bytes": 32316,
+      "sha256": "f45bded56b6996df7738eb17e21be477509c7dcf67f3646c52893d3565dbae8b",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2",
+      "url": "https://framerusercontent.com/assets/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2",
+      "bytes": 4220,
+      "sha256": "01e79b4469c586e885aa94af8c42cb734da7b4fc40aefba364a346cdf2039827",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/vebZUMjGyKkYsfcY73iwWTzLNag.woff2",
+      "url": "https://framerusercontent.com/assets/vebZUMjGyKkYsfcY73iwWTzLNag.woff2",
+      "bytes": 4016,
+      "sha256": "e4eeb7e5d0f866249ba7476a8083458c56f95a05ccd0d242ed8e0ebc29117223",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+      "url": "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+      "bytes": 26076,
+      "sha256": "3f6cafab2760e6bd3f59cefde6e45b14e57b8d05d0e63dd30b2e5927e848dab0",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/W7c5RZODpQwEi9gUWNmZP791Y8o.png",
+      "url": "https://framerusercontent.com/images/W7c5RZODpQwEi9gUWNmZP791Y8o.png",
+      "bytes": 14200,
+      "sha256": "61bc01c68961a1f95e2d1dbeb66e039b50a3e05ab88f2ebc04b944879dfa3020",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/X5j8NdJ4HVDYrVPHepErBZdmHNk.png",
+      "url": "https://framerusercontent.com/images/X5j8NdJ4HVDYrVPHepErBZdmHNk.png",
+      "bytes": 23940,
+      "sha256": "daad6c3a0ebb09c15ad257acef4f03499f7ec4dade73e7f81b71d1272342d78c",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+      "url": "https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+      "bytes": 6676,
+      "sha256": "e207ee8db856b70ffdd9e3aeb2685f92177d10800c4c274ef27da9934c180761",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+      "bytes": 4504,
+      "sha256": "8d68edfec2489a4cf7478dfeb1bceae1d4661fe42d887ec5e01e5e3f0e12d2fd",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/yDtI2UI8XcEg1W2je9XPN3Noo.woff2",
+      "url": "https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2",
+      "bytes": 28088,
+      "sha256": "236c9fe41df720209dd1a1f942b5c95e338831b29df381e8ce9f405b40a9209a",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    },
+    {
+      "file": "media/Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2",
+      "url": "https://framerusercontent.com/assets/Zwfz6xbVe5pmcWRJRgBDHnMkOkI.woff2",
+      "bytes": 6948,
+      "sha256": "2b9b21bb929f94a9dd2dccdf9a4a9a1467baf9ca19effdefbe23397dce695e7c",
+      "license": "原站公开素材，用户已确认拥有素材下载和再分发授权，按原授权条款使用"
+    }
+  ],
+  "authorization": {
+    "confirmedOn": "2026-11-03",
+    "basis": "本任务用户明确确认",
+    "statement": "已有素材下载和再分发授权",
+    "scope": [
+      "素材下载",
+      "素材再分发"
+    ]
+  }
+}
